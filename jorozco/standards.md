@@ -6,7 +6,9 @@ So true.
 
 Book: JS The good parts by Douglass Crockford
 
-* IDE's let you write code faster, but you're only writing code ~20% of the time.
+**IDE's let you write code faster, but you're only writing code ~20% of the time.**
+
+The remaining time is understanding and debugging existing code.
 
 ###Good style can help reduce the occurence of errors
 
@@ -24,7 +26,7 @@ Book: JS The good parts by Douglass Crockford
 * `B = B + 1` is easier to read. Stop using `++`/`--`
 * **One liners are fast but error prone and hard to read.**
 
-[] Set up a code writing style guide for my personal projects
+[ ] Set up a code writing style guide for my personal projects
 
 ###If there is a feature of a language that is sometimes problematic... (missed the rest)
 
